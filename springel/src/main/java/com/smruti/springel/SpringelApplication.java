@@ -17,8 +17,8 @@ public class SpringelApplication {
 		Logger logger = Logger.getLogger("com.smruti.springel.SpringelApplication");
 
 		logger.info(student.getName());
-		logger.warning(student.getFee()+"");
-		logger.severe(student.getRoll()+"");
+		logger.warning(student.getFee() + "");
+		logger.severe(student.getRoll() + "");
 	}
 
 }

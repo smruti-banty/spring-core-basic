@@ -1,0 +1,6 @@
+server:
+  port: 1200
+spring:
+  config:
+    import:
+    - secrets.yml
